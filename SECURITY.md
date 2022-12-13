@@ -1,2 +1,2 @@
 # Security Policy
-We do not cover anything that happens to your PC when you run this program. If you have any problems, do not contact us, contact NASA (or don't just go on with life in general).
+We are not responsible for anything that happens to your PC when you run this program. If you have any problems, do not contact us, contact NASA im sure they will be understanding of your issue.
